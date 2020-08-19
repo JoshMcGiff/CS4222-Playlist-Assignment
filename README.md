@@ -1,2 +1,2 @@
 # CS4222-Playlist-Assignment
-A1 Assignment for CS4222 Software Development
+A1 assignment for the module: CS4222 Software Development
